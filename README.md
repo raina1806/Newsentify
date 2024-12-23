@@ -60,7 +60,7 @@ newsentify/
 
 
 ### News Dashboard
-![News Dashboard]("Dashboard.jpeg")
+![News Dashboard]("[Dashboard.jpeg](https://github.com/raina1806/Newsentify/blob/main/Dashboard.jpeg?raw=true)")
 
 ## Future Enhancements
 
