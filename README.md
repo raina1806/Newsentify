@@ -60,7 +60,7 @@ newsentify/
 
 
 ### News Dashboard
-![News Dashboard]("D:\PROJECTS\MiniProject\Dashboard.jpeg")
+![News Dashboard]("https://github.com/raina1806/Newsentify/blob/main/Dashboard.jpeg")
 
 ## Future Enhancements
 
