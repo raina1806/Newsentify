@@ -60,7 +60,7 @@ newsentify/
 
 
 ### News Dashboard
-![News Dashboard]("https://github.com/raina1806/Newsentify/blob/2e97589a4a691cc903525a3711268da94cbcbfee/Dashboard.jpeg")
+![News Dashboard](https://raw.githubusercontent.com/raina1806/Newsentify/main/Dashboard.jpeg)
 
 ## Future Enhancements
 
