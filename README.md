@@ -60,7 +60,7 @@ newsentify/
 
 
 ### News Dashboard
-![News Dashboard](https://via.placeholder.com/800x400)
+![News Dashboard]("D:\PROJECTS\MiniProject\Dashboard.jpeg")
 
 ## Future Enhancements
 
